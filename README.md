@@ -55,10 +55,10 @@ print(X)
 
 ## Output:
 (i) To find the L and U matrix
-<img width="1152" height="437" alt="MA EX;5 1" src="https://github.com/user-attachments/assets/11091c98-8148-4ef9-bb22-2ab673afa75b" />
-(ii) To find the LU Decomposition of a matrix
-<img width="1064" height="238" alt="MA EX;5 2" src="https://github.com/user-attachments/assets/908c1b71-3072-49af-bccd-ca90012219e2" />
+<img width="952" height="822" alt="image" src="https://github.com/user-attachments/assets/8332d0bc-85ea-4a92-9080-1d7c4460ef2e" />
 
+(ii) To find the LU Decomposition of a matrix
+<img width="772" height="605" alt="image" src="https://github.com/user-attachments/assets/602c31ba-b7f7-4253-bafa-322e3a07b5da" />
 
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
