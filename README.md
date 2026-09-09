@@ -1,5 +1,6 @@
 # LU Decomposition 
-
+# NAME: SUNDARESH.K
+# REG.NO: 212225220111
 ## AIM:
 To write a program to find the LU Decomposition of a matrix.
 
